@@ -2,6 +2,9 @@
 
 ### Contract Address: 0xcd7b102d82b9a8f089669d2afa74ad2a121ac137
 ### White Paper: [Feblix Whitepaper](https://feblix.finance/white-paper.pdf)
+### Smart Contract Audit: [Feblix Smart Contract Audit](https://feblix.finance/smart-contract-audit.pdf)
+### KYC Certificate: [Feblix KYC Certificate](https://feblix.finance/KYC-certificate.png)
+### Audit Certificate: [Feblix Audit Certificate](https://feblix.finance/audit-certificate.png)
 
 ## Smart Contract
 ### BEP-20
